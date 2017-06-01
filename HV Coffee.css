@@ -1,0 +1,77 @@
+
+#banner-pic{
+	background-image:url("background-pic.jpg");
+	width:1365px;
+	height:662px;
+	width:auto;
+	background-position:center;
+	position:relative;
+	padding-top:50px;
+}
+#nyc{
+	font-size:45px;
+	position:static;
+	text-align:center;
+	color:white;
+	padding-top:100px;
+	background-size:contain;
+}
+#nyc-text{
+	font-size:30px;
+	position:static;
+	text-align:center;
+	color:white;
+	padding-top:120px;
+	margin-top:60px;
+	background-size:contain;
+}
+
+#text-box{
+	text-align:center;
+	background-size:contain;
+}
+.form-control{
+	width:200px;
+	width:100%;
+
+}
+
+#google-map{
+	background-image:url("google-real.jpg");
+	width:1500px;
+	height:500px;
+	width:auto;
+	background-position:center;
+}
+#seo-text{
+	padding:100px 100px;
+}
+
+#nav{
+width:auto;
+height:auto;
+
+}
+.navbar-inverse {
+    background-color: #222;
+    border-color: #080808;
+    width:100px;
+}
+
+#links{
+	text-decoration:none;
+}
+
+a{
+	color:white;
+	letter-spacing:2px;
+	padding-right:8px;
+	font-size:15px;
+
+}
+
+a:hover{
+	text-decoration:none;
+	color:white;
+	font-size:17px;
+}
